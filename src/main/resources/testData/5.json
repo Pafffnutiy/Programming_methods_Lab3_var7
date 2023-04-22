@@ -1,0 +1,39 @@
+{
+  "team": [
+    {
+      "fullName": "Трофимова Елизавета Викторовна",
+      "age": 49,
+      "height": 151,
+      "weight": 62,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Анисимова Тамара Анатольевна",
+      "age": 28,
+      "height": 179,
+      "weight": 43,
+      "sportsType": "Регби"
+    },
+    {
+      "fullName": "Юдина Дарья Георгиевна",
+      "age": 49,
+      "height": 155,
+      "weight": 52,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Дементьева Наталья Никитична",
+      "age": 47,
+      "height": 204,
+      "weight": 64,
+      "sportsType": "Триатлон"
+    },
+    {
+      "fullName": "Хохлов Степан Антонович",
+      "age": 16,
+      "height": 200,
+      "weight": 49,
+      "sportsType": "Футбол"
+    }
+  ]
+}

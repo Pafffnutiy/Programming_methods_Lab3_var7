@@ -1,0 +1,3504 @@
+{
+  "team": [
+    {
+      "fullName": "Соловьева Зоя Валентиновна",
+      "age": 42,
+      "height": 202,
+      "weight": 56,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Евдокимова Светлана Михайловна",
+      "age": 16,
+      "height": 168,
+      "weight": 98,
+      "sportsType": "Прыжки на батуте"
+    },
+    {
+      "fullName": "Фомичев Семён Анатольевич",
+      "age": 22,
+      "height": 166,
+      "weight": 82,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Терентьева Татьяна Эдуардовна",
+      "age": 19,
+      "height": 194,
+      "weight": 60,
+      "sportsType": "Регби"
+    },
+    {
+      "fullName": "Жданов Игорь Лукич",
+      "age": 16,
+      "height": 187,
+      "weight": 78,
+      "sportsType": "Легкая атлетика"
+    },
+    {
+      "fullName": "Горшков Василий Леонидович",
+      "age": 17,
+      "height": 164,
+      "weight": 88,
+      "sportsType": "Бокс"
+    },
+    {
+      "fullName": "Крюков Герман Юрьевич",
+      "age": 29,
+      "height": 174,
+      "weight": 82,
+      "sportsType": "Регби"
+    },
+    {
+      "fullName": "Егорова Евгения Николаевна",
+      "age": 31,
+      "height": 182,
+      "weight": 51,
+      "sportsType": "BMX фристайл"
+    },
+    {
+      "fullName": "Киселева Алёна Юрьевна",
+      "age": 15,
+      "height": 178,
+      "weight": 73,
+      "sportsType": "Легкая атлетика"
+    },
+    {
+      "fullName": "Суворова Наталья Степановна",
+      "age": 29,
+      "height": 150,
+      "weight": 65,
+      "sportsType": "Водное поло"
+    },
+    {
+      "fullName": "Овчинникова Алёна Максимовна",
+      "age": 39,
+      "height": 165,
+      "weight": 45,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Кабанов Максим Даниилович",
+      "age": 42,
+      "height": 192,
+      "weight": 58,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Михеева Вера Ярославовна",
+      "age": 50,
+      "height": 183,
+      "weight": 57,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Быков Роман Юрьевич",
+      "age": 48,
+      "height": 155,
+      "weight": 42,
+      "sportsType": "Маунтинбайк"
+    },
+    {
+      "fullName": "Иванов Никита Анатольевич",
+      "age": 33,
+      "height": 176,
+      "weight": 88,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Лукина Жанна Геннадьевна",
+      "age": 20,
+      "height": 182,
+      "weight": 86,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Авдеев Виталий Олегович",
+      "age": 35,
+      "height": 170,
+      "weight": 61,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Якушева Елизавета Геннадьевна",
+      "age": 39,
+      "height": 164,
+      "weight": 96,
+      "sportsType": "BMX"
+    },
+    {
+      "fullName": "Петухова Нина Анатольевна",
+      "age": 22,
+      "height": 201,
+      "weight": 95,
+      "sportsType": "Футбол"
+    },
+    {
+      "fullName": "Уваров Лаврентий Олегович",
+      "age": 18,
+      "height": 164,
+      "weight": 87,
+      "sportsType": "Водное поло"
+    },
+    {
+      "fullName": "Николаева Алёна Данииловна",
+      "age": 16,
+      "height": 197,
+      "weight": 88,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Мельников Лука Романович",
+      "age": 18,
+      "height": 173,
+      "weight": 57,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Денисов Илья Романович",
+      "age": 50,
+      "height": 157,
+      "weight": 84,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Тарасов Вячеслав Егорович",
+      "age": 48,
+      "height": 197,
+      "weight": 61,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Мельников Никита Германович",
+      "age": 27,
+      "height": 200,
+      "weight": 80,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Галкина Таисия Владимировна",
+      "age": 47,
+      "height": 202,
+      "weight": 56,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Пономарев Вадим Олегович",
+      "age": 47,
+      "height": 163,
+      "weight": 65,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Беляков Николай Борисович",
+      "age": 16,
+      "height": 208,
+      "weight": 79,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Виноградова Антонина Никитична",
+      "age": 49,
+      "height": 163,
+      "weight": 69,
+      "sportsType": "Гребной слалом"
+    },
+    {
+      "fullName": "Панов Никита Григорьевич",
+      "age": 34,
+      "height": 185,
+      "weight": 72,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Гущина Зинаида Евгеньевна",
+      "age": 16,
+      "height": 180,
+      "weight": 75,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Мишин Евгений Юрьевич",
+      "age": 17,
+      "height": 154,
+      "weight": 63,
+      "sportsType": "Спортивное скалолазание"
+    },
+    {
+      "fullName": "Красильников Аркадий Викторович",
+      "age": 47,
+      "height": 172,
+      "weight": 76,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Куликова Виктория Леонидовна",
+      "age": 29,
+      "height": 200,
+      "weight": 98,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Муравьева Валентина Юрьевна",
+      "age": 18,
+      "height": 168,
+      "weight": 100,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Матвеев Григорий Олегович",
+      "age": 33,
+      "height": 185,
+      "weight": 41,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Ильина Любовь Арсеньевна",
+      "age": 27,
+      "height": 196,
+      "weight": 47,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Лихачева Анжела Станиславовна",
+      "age": 41,
+      "height": 177,
+      "weight": 65,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Носова Мария Вячеславовна",
+      "age": 30,
+      "height": 176,
+      "weight": 68,
+      "sportsType": "Хоккей"
+    },
+    {
+      "fullName": "Давыдов Семён Игоревич",
+      "age": 23,
+      "height": 187,
+      "weight": 60,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Зыкова Вероника Семёновна",
+      "age": 34,
+      "height": 152,
+      "weight": 49,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Афанасьева Жанна Сергеевна",
+      "age": 19,
+      "height": 205,
+      "weight": 83,
+      "sportsType": "Спортивное скалолазание"
+    },
+    {
+      "fullName": "Марков Фёдор Ярославович",
+      "age": 18,
+      "height": 178,
+      "weight": 51,
+      "sportsType": "Триатлон"
+    },
+    {
+      "fullName": "Филатова Анжелика Валерьевна",
+      "age": 25,
+      "height": 158,
+      "weight": 92,
+      "sportsType": "Гольф"
+    },
+    {
+      "fullName": "Ковалев Максим Евгеньевич",
+      "age": 35,
+      "height": 164,
+      "weight": 73,
+      "sportsType": "Футбол"
+    },
+    {
+      "fullName": "Соболева Анфиса Германовна",
+      "age": 23,
+      "height": 189,
+      "weight": 49,
+      "sportsType": "Гребной слалом"
+    },
+    {
+      "fullName": "Пахомов Никита Германович",
+      "age": 44,
+      "height": 185,
+      "weight": 71,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Власов Фёдор Иванович",
+      "age": 45,
+      "height": 168,
+      "weight": 82,
+      "sportsType": "Теннис"
+    },
+    {
+      "fullName": "Зиновьева Евгения Матвеевна",
+      "age": 22,
+      "height": 209,
+      "weight": 66,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Абрамова Варвара Михайловна",
+      "age": 44,
+      "height": 165,
+      "weight": 95,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Медведева Тамара Фёдоровна",
+      "age": 20,
+      "height": 170,
+      "weight": 87,
+      "sportsType": "Настольный теннис"
+    },
+    {
+      "fullName": "Борисов Константин Дмитриевич",
+      "age": 16,
+      "height": 201,
+      "weight": 75,
+      "sportsType": "Настольный теннис"
+    },
+    {
+      "fullName": "Гришин Георгий Лаврентьевич",
+      "age": 17,
+      "height": 194,
+      "weight": 46,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Сафонов Лаврентий Александрович",
+      "age": 28,
+      "height": 174,
+      "weight": 55,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Молчанов Владислав Александрович",
+      "age": 28,
+      "height": 153,
+      "weight": 98,
+      "sportsType": "BMX фристайл"
+    },
+    {
+      "fullName": "Костин Виталий Германович",
+      "age": 49,
+      "height": 192,
+      "weight": 60,
+      "sportsType": "BMX фристайл"
+    },
+    {
+      "fullName": "Дорофеев Максим Семёнович",
+      "age": 23,
+      "height": 153,
+      "weight": 51,
+      "sportsType": "Прыжки на батуте"
+    },
+    {
+      "fullName": "Кондратьева Надежда Станиславовна",
+      "age": 38,
+      "height": 189,
+      "weight": 45,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Журавлева Алевтина Васильевна",
+      "age": 31,
+      "height": 188,
+      "weight": 99,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Савельев Станислав Анатольевич",
+      "age": 22,
+      "height": 159,
+      "weight": 44,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Гордеев Антон Игнатьевич",
+      "age": 16,
+      "height": 173,
+      "weight": 67,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Лихачев Иван Валерьевич",
+      "age": 46,
+      "height": 210,
+      "weight": 66,
+      "sportsType": "Футбол"
+    },
+    {
+      "fullName": "Большакова Клавдия Арсеньевна",
+      "age": 49,
+      "height": 168,
+      "weight": 87,
+      "sportsType": "Скейтбоардинг"
+    },
+    {
+      "fullName": "Колесникова Оксана Ивановна",
+      "age": 49,
+      "height": 155,
+      "weight": 80,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Степанова Галина Владимировна",
+      "age": 45,
+      "height": 184,
+      "weight": 97,
+      "sportsType": "Бейзбол"
+    },
+    {
+      "fullName": "Блохин Даниил Валерьевич",
+      "age": 41,
+      "height": 204,
+      "weight": 75,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Мартынова Антонида Андреевна",
+      "age": 39,
+      "height": 162,
+      "weight": 87,
+      "sportsType": "Гольф"
+    },
+    {
+      "fullName": "Зиновьева Евгения Геннадьевна",
+      "age": 35,
+      "height": 199,
+      "weight": 81,
+      "sportsType": "Стрельба из лука"
+    },
+    {
+      "fullName": "Козлова Вера Геннадьевна",
+      "age": 17,
+      "height": 178,
+      "weight": 99,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Соколов Алексей Олегович",
+      "age": 38,
+      "height": 160,
+      "weight": 46,
+      "sportsType": "Бейзбол"
+    },
+    {
+      "fullName": "Дроздова Зинаида Игоревна",
+      "age": 29,
+      "height": 196,
+      "weight": 73,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Мишин Игнатий Александрович",
+      "age": 33,
+      "height": 165,
+      "weight": 56,
+      "sportsType": "Теннис"
+    },
+    {
+      "fullName": "Панфилов Евгений Борисович",
+      "age": 24,
+      "height": 178,
+      "weight": 51,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Аксенов Матвей Александрович",
+      "age": 20,
+      "height": 205,
+      "weight": 58,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Никитина Алевтина Эдуардовна",
+      "age": 25,
+      "height": 154,
+      "weight": 76,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Баранова Алёна Романовна",
+      "age": 15,
+      "height": 204,
+      "weight": 59,
+      "sportsType": "Гандбол"
+    },
+    {
+      "fullName": "Семенов Константин Валентинович",
+      "age": 24,
+      "height": 203,
+      "weight": 50,
+      "sportsType": "BMX фристайл"
+    },
+    {
+      "fullName": "Захаров Эдуард Сергеевич",
+      "age": 28,
+      "height": 167,
+      "weight": 44,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Агафонова Ольга Борисовна",
+      "age": 37,
+      "height": 184,
+      "weight": 97,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Уварова Анжела Ивановна",
+      "age": 33,
+      "height": 156,
+      "weight": 75,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Галкин Константин Денисович",
+      "age": 41,
+      "height": 176,
+      "weight": 71,
+      "sportsType": "Гандбол"
+    },
+    {
+      "fullName": "Белов Владимир Васильевич",
+      "age": 21,
+      "height": 205,
+      "weight": 63,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Терентьева Антонина Артёмовна",
+      "age": 32,
+      "height": 165,
+      "weight": 70,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Ефимов Артём Альбертович",
+      "age": 27,
+      "height": 210,
+      "weight": 75,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Кононов Лука Ильич",
+      "age": 40,
+      "height": 172,
+      "weight": 41,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Сафонова Галина Олеговна",
+      "age": 28,
+      "height": 210,
+      "weight": 82,
+      "sportsType": "Теннис"
+    },
+    {
+      "fullName": "Егоров Игорь Лукич",
+      "age": 41,
+      "height": 198,
+      "weight": 70,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Петров Геннадий Михайлович",
+      "age": 41,
+      "height": 155,
+      "weight": 51,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Исаева Антонида Сергеевна",
+      "age": 32,
+      "height": 192,
+      "weight": 93,
+      "sportsType": "Прыжки на батуте"
+    },
+    {
+      "fullName": "Матвеев Лаврентий Лукич",
+      "age": 26,
+      "height": 207,
+      "weight": 92,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Брагин Фёдор Станиславович",
+      "age": 22,
+      "height": 204,
+      "weight": 57,
+      "sportsType": "Гребля"
+    },
+    {
+      "fullName": "Григорьев Василий Николаевич",
+      "age": 17,
+      "height": 210,
+      "weight": 60,
+      "sportsType": "Бокс"
+    },
+    {
+      "fullName": "Кузнецов Виктор Евгеньевич",
+      "age": 45,
+      "height": 150,
+      "weight": 45,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Моисеева Галина Максимовна",
+      "age": 27,
+      "height": 187,
+      "weight": 70,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Фомичев Максим Константинович",
+      "age": 15,
+      "height": 158,
+      "weight": 60,
+      "sportsType": "Маунтинбайк"
+    },
+    {
+      "fullName": "Дьячков Герман Игоревич",
+      "age": 42,
+      "height": 178,
+      "weight": 68,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Гордеева Елена Антоновна",
+      "age": 38,
+      "height": 175,
+      "weight": 63,
+      "sportsType": "Гребля на байдарках и каноэ"
+    },
+    {
+      "fullName": "Кабанов Фёдор Лукич",
+      "age": 15,
+      "height": 194,
+      "weight": 52,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Воронцова Анастасия Антоновна",
+      "age": 41,
+      "height": 186,
+      "weight": 82,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Рябова Регина Вадимовна",
+      "age": 36,
+      "height": 165,
+      "weight": 84,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Корнилов Игорь Валерьевич",
+      "age": 32,
+      "height": 193,
+      "weight": 93,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Осипова Галина Семёновна",
+      "age": 23,
+      "height": 190,
+      "weight": 76,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Мухина Евгения Вячеславовна",
+      "age": 27,
+      "height": 210,
+      "weight": 51,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Жукова Валентина Дмитриевна",
+      "age": 15,
+      "height": 161,
+      "weight": 48,
+      "sportsType": "Легкая атлетика"
+    },
+    {
+      "fullName": "Гришина Татьяна Денисовна",
+      "age": 21,
+      "height": 197,
+      "weight": 46,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Бурова Зинаида Владимировна",
+      "age": 50,
+      "height": 170,
+      "weight": 62,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Никонов Антон Владимирович",
+      "age": 15,
+      "height": 191,
+      "weight": 74,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Беспалов Артём Матвеевич",
+      "age": 23,
+      "height": 203,
+      "weight": 51,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Ситникова Ульяна Борисовна",
+      "age": 40,
+      "height": 161,
+      "weight": 83,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Давыдов Александр Ярославович",
+      "age": 17,
+      "height": 155,
+      "weight": 65,
+      "sportsType": "Регби"
+    },
+    {
+      "fullName": "Игнатьева Александра Игнатьевна",
+      "age": 24,
+      "height": 170,
+      "weight": 100,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Бобылева Антонида Леонидовна",
+      "age": 50,
+      "height": 183,
+      "weight": 69,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Белякова Ольга Артёмовна",
+      "age": 49,
+      "height": 172,
+      "weight": 59,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Кудряшова Елена Станиславовна",
+      "age": 22,
+      "height": 178,
+      "weight": 54,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Ефремова Тамара Алексеевна",
+      "age": 46,
+      "height": 185,
+      "weight": 53,
+      "sportsType": "Гребля на байдарках и каноэ"
+    },
+    {
+      "fullName": "Сорокин Вячеслав Владимирович",
+      "age": 33,
+      "height": 162,
+      "weight": 90,
+      "sportsType": "Гольф"
+    },
+    {
+      "fullName": "Стрелкова Алина Игнатьевна",
+      "age": 25,
+      "height": 190,
+      "weight": 98,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Веселов Игнатий Леонидович",
+      "age": 35,
+      "height": 158,
+      "weight": 83,
+      "sportsType": "Скейтбоардинг"
+    },
+    {
+      "fullName": "Носков Герман Максимович",
+      "age": 22,
+      "height": 190,
+      "weight": 70,
+      "sportsType": "Спортивное скалолазание"
+    },
+    {
+      "fullName": "Григорьева Валерия Егоровна",
+      "age": 31,
+      "height": 176,
+      "weight": 70,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Шубина Арина Максимовна",
+      "age": 40,
+      "height": 162,
+      "weight": 78,
+      "sportsType": "Бокс"
+    },
+    {
+      "fullName": "Тетерина Алёна Александровна",
+      "age": 23,
+      "height": 178,
+      "weight": 90,
+      "sportsType": "BMX"
+    },
+    {
+      "fullName": "Капустина Нина Олеговна",
+      "age": 48,
+      "height": 156,
+      "weight": 99,
+      "sportsType": "Стрельба из лука"
+    },
+    {
+      "fullName": "Попов Фёдор Денисович",
+      "age": 34,
+      "height": 200,
+      "weight": 67,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Тетерин Виктор Валентинович",
+      "age": 21,
+      "height": 162,
+      "weight": 78,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Федоров Эдуард Эдуардович",
+      "age": 36,
+      "height": 150,
+      "weight": 71,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Беспалова Любовь Артёмовна",
+      "age": 44,
+      "height": 161,
+      "weight": 62,
+      "sportsType": "Гребной слалом"
+    },
+    {
+      "fullName": "Рогова Наталья Анатольевна",
+      "age": 43,
+      "height": 166,
+      "weight": 69,
+      "sportsType": "Карате"
+    },
+    {
+      "fullName": "Рябов Даниил Никитич",
+      "age": 41,
+      "height": 171,
+      "weight": 72,
+      "sportsType": "Гандбол"
+    },
+    {
+      "fullName": "Карпова Лидия Семёновна",
+      "age": 33,
+      "height": 170,
+      "weight": 73,
+      "sportsType": "Гребной слалом"
+    },
+    {
+      "fullName": "Агафонов Владимир Геннадьевич",
+      "age": 23,
+      "height": 161,
+      "weight": 100,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Беляев Евгений Васильевич",
+      "age": 44,
+      "height": 168,
+      "weight": 68,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Журавлев Игнатий Германович",
+      "age": 50,
+      "height": 185,
+      "weight": 73,
+      "sportsType": "Водное поло"
+    },
+    {
+      "fullName": "Степанов Григорий Георгиевич",
+      "age": 19,
+      "height": 151,
+      "weight": 86,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Бирюков Герман Константинович",
+      "age": 38,
+      "height": 177,
+      "weight": 73,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Логинов Макар Семёнович",
+      "age": 49,
+      "height": 155,
+      "weight": 76,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Шубина Арина Вадимовна",
+      "age": 20,
+      "height": 205,
+      "weight": 100,
+      "sportsType": "Стрельба из лука"
+    },
+    {
+      "fullName": "Хохлова Светлана Семёновна",
+      "age": 30,
+      "height": 204,
+      "weight": 49,
+      "sportsType": "Водное поло"
+    },
+    {
+      "fullName": "Авдеев Алексей Эдуардович",
+      "age": 22,
+      "height": 206,
+      "weight": 69,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Беляков Василий Арсеньевич",
+      "age": 32,
+      "height": 210,
+      "weight": 90,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Казакова Таисия Михайловна",
+      "age": 33,
+      "height": 186,
+      "weight": 48,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Бобылева Елена Максимовна",
+      "age": 32,
+      "height": 204,
+      "weight": 46,
+      "sportsType": "Плавание"
+    },
+    {
+      "fullName": "Дроздов Виталий Вячеславович",
+      "age": 15,
+      "height": 191,
+      "weight": 51,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Беспалова Василиса Максимовна",
+      "age": 41,
+      "height": 165,
+      "weight": 97,
+      "sportsType": "BMX фристайл"
+    },
+    {
+      "fullName": "Галкина Таисия Александровна",
+      "age": 31,
+      "height": 202,
+      "weight": 89,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Якушева Анна Сергеевна",
+      "age": 34,
+      "height": 188,
+      "weight": 94,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Соболева Зинаида Ивановна",
+      "age": 33,
+      "height": 151,
+      "weight": 56,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Анисимова Лариса Валерьевна",
+      "age": 50,
+      "height": 172,
+      "weight": 81,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Емельянова Александра Игнатьевна",
+      "age": 43,
+      "height": 190,
+      "weight": 86,
+      "sportsType": "Гребля"
+    },
+    {
+      "fullName": "Галкин Матвей Дмитриевич",
+      "age": 18,
+      "height": 190,
+      "weight": 64,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Белозеров Юрий Викторович",
+      "age": 35,
+      "height": 207,
+      "weight": 88,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Хохлов Вячеслав Артёмович",
+      "age": 25,
+      "height": 155,
+      "weight": 63,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Мельников Денис Романович",
+      "age": 46,
+      "height": 176,
+      "weight": 83,
+      "sportsType": "Прыжки на батуте"
+    },
+    {
+      "fullName": "Русаков Макар Леонидович",
+      "age": 34,
+      "height": 164,
+      "weight": 58,
+      "sportsType": "Гандбол"
+    },
+    {
+      "fullName": "Корнилов Владислав Викторович",
+      "age": 23,
+      "height": 173,
+      "weight": 75,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Симонова Зинаида Степановна",
+      "age": 40,
+      "height": 183,
+      "weight": 61,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Пестов Лаврентий Константинович",
+      "age": 24,
+      "height": 160,
+      "weight": 71,
+      "sportsType": "Стрельба из лука"
+    },
+    {
+      "fullName": "Казаков Эдуард Дмитриевич",
+      "age": 38,
+      "height": 209,
+      "weight": 82,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Сергеев Алексей Анатольевич",
+      "age": 37,
+      "height": 205,
+      "weight": 54,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Родионова Дарья Евгеньевна",
+      "age": 42,
+      "height": 151,
+      "weight": 69,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Носков Анатолий Григорьевич",
+      "age": 42,
+      "height": 188,
+      "weight": 51,
+      "sportsType": "Спортивное скалолазание"
+    },
+    {
+      "fullName": "Григорьева Татьяна Дмитриевна",
+      "age": 28,
+      "height": 154,
+      "weight": 40,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Фомин Игнатий Степанович",
+      "age": 31,
+      "height": 163,
+      "weight": 52,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Соболев Игорь Юрьевич",
+      "age": 15,
+      "height": 163,
+      "weight": 58,
+      "sportsType": "Прыжки на батуте"
+    },
+    {
+      "fullName": "Герасимова Светлана Викторовна",
+      "age": 32,
+      "height": 168,
+      "weight": 53,
+      "sportsType": "Бокс"
+    },
+    {
+      "fullName": "Мартынова Ангелина Георгиевна",
+      "age": 16,
+      "height": 153,
+      "weight": 40,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Данилова Анжелика Георгиевна",
+      "age": 17,
+      "height": 155,
+      "weight": 66,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Шашков Никита Евгеньевич",
+      "age": 37,
+      "height": 203,
+      "weight": 65,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Григорьева Зоя Альбертовна",
+      "age": 17,
+      "height": 158,
+      "weight": 66,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Ермаков Роман Эдуардович",
+      "age": 41,
+      "height": 196,
+      "weight": 87,
+      "sportsType": "Плавание"
+    },
+    {
+      "fullName": "Федотов Валерий Васильевич",
+      "age": 45,
+      "height": 198,
+      "weight": 56,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Зуев Вадим Евгеньевич",
+      "age": 23,
+      "height": 200,
+      "weight": 42,
+      "sportsType": "BMX"
+    },
+    {
+      "fullName": "Быкова Вероника Ярославовна",
+      "age": 30,
+      "height": 154,
+      "weight": 42,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Никонов Иван Алексеевич",
+      "age": 27,
+      "height": 160,
+      "weight": 96,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Мухин Герман Семёнович",
+      "age": 48,
+      "height": 155,
+      "weight": 57,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Комаров Иван Николаевич",
+      "age": 38,
+      "height": 152,
+      "weight": 55,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Данилов Игнатий Никитич",
+      "age": 18,
+      "height": 193,
+      "weight": 54,
+      "sportsType": "Плавание"
+    },
+    {
+      "fullName": "Пестова Алла Алексеевна",
+      "age": 17,
+      "height": 172,
+      "weight": 99,
+      "sportsType": "Скейтбоардинг"
+    },
+    {
+      "fullName": "Новикова Арина Семёновна",
+      "age": 31,
+      "height": 163,
+      "weight": 43,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Романова Ульяна Сергеевна",
+      "age": 18,
+      "height": 175,
+      "weight": 69,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Архипов Вадим Валентинович",
+      "age": 23,
+      "height": 170,
+      "weight": 43,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Кириллова Антонина Анатольевна",
+      "age": 44,
+      "height": 199,
+      "weight": 47,
+      "sportsType": "Плавание"
+    },
+    {
+      "fullName": "Осипов Григорий Борисович",
+      "age": 17,
+      "height": 195,
+      "weight": 63,
+      "sportsType": "Скейтбоардинг"
+    },
+    {
+      "fullName": "Калашников Валентин Альбертович",
+      "age": 46,
+      "height": 171,
+      "weight": 71,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Власов Евгений Ильич",
+      "age": 22,
+      "height": 151,
+      "weight": 95,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Туров Денис Владимирович",
+      "age": 34,
+      "height": 162,
+      "weight": 85,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Михеев Семён Геннадьевич",
+      "age": 42,
+      "height": 155,
+      "weight": 67,
+      "sportsType": "Триатлон"
+    },
+    {
+      "fullName": "Шаров Фёдор Никитич",
+      "age": 21,
+      "height": 183,
+      "weight": 44,
+      "sportsType": "Бокс"
+    },
+    {
+      "fullName": "Кондратьев Игнатий Валентинович",
+      "age": 23,
+      "height": 150,
+      "weight": 62,
+      "sportsType": "Хоккей"
+    },
+    {
+      "fullName": "Королева Василиса Артёмовна",
+      "age": 46,
+      "height": 167,
+      "weight": 95,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Пахомова Нина Борисовна",
+      "age": 36,
+      "height": 206,
+      "weight": 54,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Матвеев Валентин Витальевич",
+      "age": 15,
+      "height": 153,
+      "weight": 62,
+      "sportsType": "Гандбол"
+    },
+    {
+      "fullName": "Игнатьев Арсений Вадимович",
+      "age": 28,
+      "height": 165,
+      "weight": 76,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Куликов Валентин Станиславович",
+      "age": 16,
+      "height": 154,
+      "weight": 50,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Назаров Владимир Вячеславович",
+      "age": 38,
+      "height": 176,
+      "weight": 68,
+      "sportsType": "Гандбол"
+    },
+    {
+      "fullName": "Ширяев Ярослав Дмитриевич",
+      "age": 18,
+      "height": 157,
+      "weight": 58,
+      "sportsType": "Бейзбол"
+    },
+    {
+      "fullName": "Михеева София Степановна",
+      "age": 46,
+      "height": 165,
+      "weight": 48,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Доронина Жанна Арсеньевна",
+      "age": 24,
+      "height": 151,
+      "weight": 93,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Ларионов Егор Романович",
+      "age": 35,
+      "height": 210,
+      "weight": 72,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Абрамова Анжела Максимовна",
+      "age": 49,
+      "height": 160,
+      "weight": 97,
+      "sportsType": "Гребля"
+    },
+    {
+      "fullName": "Исаков Лаврентий Константинович",
+      "age": 49,
+      "height": 197,
+      "weight": 91,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Смирнова Валерия Викторовна",
+      "age": 41,
+      "height": 151,
+      "weight": 58,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Зуев Альберт Анатольевич",
+      "age": 45,
+      "height": 176,
+      "weight": 76,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Рожков Виктор Максимович",
+      "age": 46,
+      "height": 181,
+      "weight": 41,
+      "sportsType": "Гребной слалом"
+    },
+    {
+      "fullName": "Мясников Даниил Степанович",
+      "age": 49,
+      "height": 188,
+      "weight": 57,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Зыков Сергей Дмитриевич",
+      "age": 42,
+      "height": 183,
+      "weight": 83,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Агафонов Альберт Георгиевич",
+      "age": 15,
+      "height": 174,
+      "weight": 71,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Савин Матвей Юрьевич",
+      "age": 45,
+      "height": 152,
+      "weight": 43,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Рожков Анатолий Вадимович",
+      "age": 36,
+      "height": 204,
+      "weight": 88,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Карпова Анна Александровна",
+      "age": 45,
+      "height": 181,
+      "weight": 41,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Ефимова Кира Георгиевна",
+      "age": 40,
+      "height": 207,
+      "weight": 92,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Потапова Елизавета Игнатьевна",
+      "age": 29,
+      "height": 196,
+      "weight": 62,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Александрова Таисия Артёмовна",
+      "age": 49,
+      "height": 166,
+      "weight": 83,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Гаврилов Максим Макарович",
+      "age": 26,
+      "height": 166,
+      "weight": 97,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Давыдов Герман Ярославович",
+      "age": 19,
+      "height": 172,
+      "weight": 76,
+      "sportsType": "Настольный теннис"
+    },
+    {
+      "fullName": "Михайлова Валерия Матвеевна",
+      "age": 28,
+      "height": 174,
+      "weight": 42,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Миронова Светлана Арсеньевна",
+      "age": 37,
+      "height": 183,
+      "weight": 76,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Шашкова Римма Сергеевна",
+      "age": 25,
+      "height": 167,
+      "weight": 47,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Брагин Альберт Максимович",
+      "age": 27,
+      "height": 173,
+      "weight": 95,
+      "sportsType": "BMX"
+    },
+    {
+      "fullName": "Ильин Лаврентий Иванович",
+      "age": 38,
+      "height": 170,
+      "weight": 65,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Доронина Дарья Юрьевна",
+      "age": 47,
+      "height": 183,
+      "weight": 84,
+      "sportsType": "BMX"
+    },
+    {
+      "fullName": "Ершов Арсений Артёмович",
+      "age": 36,
+      "height": 184,
+      "weight": 63,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Самойлова Виктория Романовна",
+      "age": 40,
+      "height": 169,
+      "weight": 99,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Анисимова Алёна Вадимовна",
+      "age": 41,
+      "height": 201,
+      "weight": 69,
+      "sportsType": "Легкая атлетика"
+    },
+    {
+      "fullName": "Емельянова Алевтина Борисовна",
+      "age": 21,
+      "height": 171,
+      "weight": 84,
+      "sportsType": "Карате"
+    },
+    {
+      "fullName": "Игнатова Алевтина Евгеньевна",
+      "age": 32,
+      "height": 174,
+      "weight": 40,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Суворов Альберт Борисович",
+      "age": 23,
+      "height": 179,
+      "weight": 54,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Дмитриев Ярослав Юрьевич",
+      "age": 21,
+      "height": 157,
+      "weight": 72,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Денисова Ангелина Станиславовна",
+      "age": 22,
+      "height": 172,
+      "weight": 100,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Муравьева Варвара Фёдоровна",
+      "age": 34,
+      "height": 166,
+      "weight": 83,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Пономарев Максим Антонович",
+      "age": 21,
+      "height": 191,
+      "weight": 47,
+      "sportsType": "Гребля"
+    },
+    {
+      "fullName": "Крылова Надежда Дмитриевна",
+      "age": 31,
+      "height": 197,
+      "weight": 63,
+      "sportsType": "Теннис"
+    },
+    {
+      "fullName": "Маслов Дмитрий Александрович",
+      "age": 43,
+      "height": 190,
+      "weight": 48,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Волков Виктор Станиславович",
+      "age": 19,
+      "height": 190,
+      "weight": 59,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Костина Александра Эдуардовна",
+      "age": 29,
+      "height": 208,
+      "weight": 57,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Шилов Юрий Витальевич",
+      "age": 48,
+      "height": 164,
+      "weight": 68,
+      "sportsType": "BMX"
+    },
+    {
+      "fullName": "Самойлова Антонина Артёмовна",
+      "age": 22,
+      "height": 183,
+      "weight": 86,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Владимиров Александр Васильевич",
+      "age": 37,
+      "height": 195,
+      "weight": 67,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Кондратьева Екатерина Дмитриевна",
+      "age": 34,
+      "height": 159,
+      "weight": 75,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Сидоров Аркадий Сергеевич",
+      "age": 26,
+      "height": 179,
+      "weight": 82,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Кошелев Вадим Альбертович",
+      "age": 20,
+      "height": 155,
+      "weight": 72,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Мухина Жанна Борисовна",
+      "age": 34,
+      "height": 206,
+      "weight": 95,
+      "sportsType": "Стрельба из лука"
+    },
+    {
+      "fullName": "Агафонов Степан Игоревич",
+      "age": 16,
+      "height": 206,
+      "weight": 70,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Давыдова Клавдия Аркадьевна",
+      "age": 24,
+      "height": 185,
+      "weight": 52,
+      "sportsType": "Спортивное скалолазание"
+    },
+    {
+      "fullName": "Блохина Марина Ильинична",
+      "age": 34,
+      "height": 181,
+      "weight": 82,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Горбунов Станислав Геннадьевич",
+      "age": 15,
+      "height": 168,
+      "weight": 87,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Зайцев Лука Егорович",
+      "age": 34,
+      "height": 193,
+      "weight": 59,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Брагин Александр Олегович",
+      "age": 35,
+      "height": 167,
+      "weight": 70,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Калашников Максим Никитич",
+      "age": 32,
+      "height": 209,
+      "weight": 70,
+      "sportsType": "Карате"
+    },
+    {
+      "fullName": "Князева Зинаида Лаврентьевна",
+      "age": 19,
+      "height": 176,
+      "weight": 99,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Красильников Владислав Юрьевич",
+      "age": 38,
+      "height": 163,
+      "weight": 56,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Андреева Лидия Антоновна",
+      "age": 34,
+      "height": 203,
+      "weight": 85,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Анисимова Жанна Васильевна",
+      "age": 15,
+      "height": 184,
+      "weight": 62,
+      "sportsType": "BMX"
+    },
+    {
+      "fullName": "Быкова Валерия Игоревна",
+      "age": 21,
+      "height": 169,
+      "weight": 60,
+      "sportsType": "Теннис"
+    },
+    {
+      "fullName": "Князев Степан Эдуардович",
+      "age": 28,
+      "height": 190,
+      "weight": 87,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Щукина Светлана Егоровна",
+      "age": 40,
+      "height": 187,
+      "weight": 62,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Дьячков Илья Дмитриевич",
+      "age": 21,
+      "height": 190,
+      "weight": 100,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Нестерова Ангелина Викторовна",
+      "age": 18,
+      "height": 177,
+      "weight": 78,
+      "sportsType": "Теннис"
+    },
+    {
+      "fullName": "Пестова Светлана Борисовна",
+      "age": 41,
+      "height": 155,
+      "weight": 87,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Гусев Станислав Борисович",
+      "age": 38,
+      "height": 189,
+      "weight": 56,
+      "sportsType": "Хоккей"
+    },
+    {
+      "fullName": "Сергеев Роман Константинович",
+      "age": 50,
+      "height": 192,
+      "weight": 85,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Никифоров Николай Фёдорович",
+      "age": 46,
+      "height": 151,
+      "weight": 84,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Зайцев Вячеслав Михайлович",
+      "age": 17,
+      "height": 162,
+      "weight": 83,
+      "sportsType": "Гандбол"
+    },
+    {
+      "fullName": "Юдина Оксана Ярославовна",
+      "age": 21,
+      "height": 199,
+      "weight": 83,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Бобылев Лука Лаврентьевич",
+      "age": 20,
+      "height": 166,
+      "weight": 57,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Мясникова Любовь Евгеньевна",
+      "age": 44,
+      "height": 194,
+      "weight": 56,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Третьякова Вероника Леонидовна",
+      "age": 28,
+      "height": 206,
+      "weight": 100,
+      "sportsType": "Бейзбол"
+    },
+    {
+      "fullName": "Королева Евгения Макаровна",
+      "age": 21,
+      "height": 160,
+      "weight": 62,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Ларионова Вера Владимировна",
+      "age": 33,
+      "height": 194,
+      "weight": 46,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Зуева Дарья Семёновна",
+      "age": 48,
+      "height": 164,
+      "weight": 59,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Жуков Василий Валерьевич",
+      "age": 17,
+      "height": 200,
+      "weight": 45,
+      "sportsType": "BMX фристайл"
+    },
+    {
+      "fullName": "Игнатьева Антонида Михайловна",
+      "age": 16,
+      "height": 193,
+      "weight": 83,
+      "sportsType": "Футбол"
+    },
+    {
+      "fullName": "Петухова Дарья Лаврентьевна",
+      "age": 28,
+      "height": 185,
+      "weight": 57,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Лаврентьев Степан Олегович",
+      "age": 23,
+      "height": 173,
+      "weight": 75,
+      "sportsType": "Водное поло"
+    },
+    {
+      "fullName": "Дроздова Ксения Валерьевна",
+      "age": 25,
+      "height": 197,
+      "weight": 67,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Васильев Герман Андреевич",
+      "age": 29,
+      "height": 155,
+      "weight": 51,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Максимов Станислав Леонидович",
+      "age": 38,
+      "height": 200,
+      "weight": 82,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Матвеев Сергей Константинович",
+      "age": 47,
+      "height": 196,
+      "weight": 80,
+      "sportsType": "Регби"
+    },
+    {
+      "fullName": "Горбунова Ангелина Валерьевна",
+      "age": 26,
+      "height": 168,
+      "weight": 44,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Степанова Ксения Вадимовна",
+      "age": 16,
+      "height": 197,
+      "weight": 81,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Харитонов Лаврентий Вадимович",
+      "age": 21,
+      "height": 183,
+      "weight": 60,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Ильина Варвара Андреевна",
+      "age": 22,
+      "height": 157,
+      "weight": 50,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Прохоров Макар Арсеньевич",
+      "age": 34,
+      "height": 164,
+      "weight": 80,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Куликова Вероника Викторовна",
+      "age": 35,
+      "height": 178,
+      "weight": 53,
+      "sportsType": "Легкая атлетика"
+    },
+    {
+      "fullName": "Логинов Иван Никитич",
+      "age": 30,
+      "height": 199,
+      "weight": 52,
+      "sportsType": "Карате"
+    },
+    {
+      "fullName": "Исаев Валерий Георгиевич",
+      "age": 35,
+      "height": 197,
+      "weight": 59,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Шаров Егор Арсеньевич",
+      "age": 16,
+      "height": 160,
+      "weight": 42,
+      "sportsType": "Спортивное скалолазание"
+    },
+    {
+      "fullName": "Корнилов Степан Анатольевич",
+      "age": 48,
+      "height": 184,
+      "weight": 74,
+      "sportsType": "Бейзбол"
+    },
+    {
+      "fullName": "Фомичева Нина Юрьевна",
+      "age": 23,
+      "height": 194,
+      "weight": 93,
+      "sportsType": "Хоккей"
+    },
+    {
+      "fullName": "Панова Оксана Викторовна",
+      "age": 37,
+      "height": 156,
+      "weight": 62,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Ефимова Наталья Игнатьевна",
+      "age": 17,
+      "height": 170,
+      "weight": 57,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Ларионова Алина Валерьевна",
+      "age": 25,
+      "height": 197,
+      "weight": 49,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Суворова Александра Григорьевна",
+      "age": 44,
+      "height": 153,
+      "weight": 41,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Ильина София Арсеньевна",
+      "age": 21,
+      "height": 207,
+      "weight": 93,
+      "sportsType": "Скейтбоардинг"
+    },
+    {
+      "fullName": "Игнатова Ирина Дмитриевна",
+      "age": 48,
+      "height": 197,
+      "weight": 62,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Дьячкова Василиса Валентиновна",
+      "age": 45,
+      "height": 162,
+      "weight": 81,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Соколов Николай Артёмович",
+      "age": 27,
+      "height": 174,
+      "weight": 61,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Никитина Оксана Денисовна",
+      "age": 43,
+      "height": 207,
+      "weight": 97,
+      "sportsType": "Карате"
+    },
+    {
+      "fullName": "Ершов Илья Игнатьевич",
+      "age": 45,
+      "height": 209,
+      "weight": 60,
+      "sportsType": "Маунтинбайк"
+    },
+    {
+      "fullName": "Горшкова Регина Антоновна",
+      "age": 45,
+      "height": 187,
+      "weight": 46,
+      "sportsType": "Хоккей"
+    },
+    {
+      "fullName": "Ларионов Иван Андреевич",
+      "age": 25,
+      "height": 195,
+      "weight": 46,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Зайцев Вадим Альбертович",
+      "age": 44,
+      "height": 186,
+      "weight": 99,
+      "sportsType": "Гребля на байдарках и каноэ"
+    },
+    {
+      "fullName": "Макаров Матвей Арсеньевич",
+      "age": 26,
+      "height": 196,
+      "weight": 46,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Медведев Герман Александрович",
+      "age": 27,
+      "height": 191,
+      "weight": 83,
+      "sportsType": "Пляжный волейбол"
+    },
+    {
+      "fullName": "Гордеева Алевтина Эдуардовна",
+      "age": 28,
+      "height": 162,
+      "weight": 96,
+      "sportsType": "Плавание"
+    },
+    {
+      "fullName": "Крюков Герман Викторович",
+      "age": 40,
+      "height": 170,
+      "weight": 74,
+      "sportsType": "Гандбол"
+    },
+    {
+      "fullName": "Мельникова Раиса Германовна",
+      "age": 33,
+      "height": 173,
+      "weight": 73,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Чернова Лидия Михайловна",
+      "age": 28,
+      "height": 154,
+      "weight": 77,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Куликова Клавдия Игнатьевна",
+      "age": 21,
+      "height": 177,
+      "weight": 96,
+      "sportsType": "Спортивное скалолазание"
+    },
+    {
+      "fullName": "Рябов Егор Васильевич",
+      "age": 36,
+      "height": 185,
+      "weight": 73,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Щукин Анатолий Вадимович",
+      "age": 41,
+      "height": 174,
+      "weight": 48,
+      "sportsType": "Футбол"
+    },
+    {
+      "fullName": "Фокина Алёна Юрьевна",
+      "age": 42,
+      "height": 178,
+      "weight": 44,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Владимирова Татьяна Лаврентьевна",
+      "age": 18,
+      "height": 188,
+      "weight": 92,
+      "sportsType": "Бейзбол"
+    },
+    {
+      "fullName": "Антонова Александра Дмитриевна",
+      "age": 34,
+      "height": 162,
+      "weight": 75,
+      "sportsType": "Стрельба из лука"
+    },
+    {
+      "fullName": "Беляев Игорь Валерьевич",
+      "age": 38,
+      "height": 162,
+      "weight": 88,
+      "sportsType": "Спортивное скалолазание"
+    },
+    {
+      "fullName": "Панова Галина Альбертовна",
+      "age": 30,
+      "height": 200,
+      "weight": 45,
+      "sportsType": "Регби"
+    },
+    {
+      "fullName": "Крюков Матвей Германович",
+      "age": 48,
+      "height": 208,
+      "weight": 82,
+      "sportsType": "Триатлон"
+    },
+    {
+      "fullName": "Гусев Валерий Романович",
+      "age": 20,
+      "height": 165,
+      "weight": 62,
+      "sportsType": "Легкая атлетика"
+    },
+    {
+      "fullName": "Воробьев Борис Егорович",
+      "age": 36,
+      "height": 205,
+      "weight": 67,
+      "sportsType": "Футбол"
+    },
+    {
+      "fullName": "Лобанова Елизавета Альбертовна",
+      "age": 44,
+      "height": 180,
+      "weight": 72,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Медведев Денис Владимирович",
+      "age": 47,
+      "height": 152,
+      "weight": 86,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Григорьева Людмила Евгеньевна",
+      "age": 21,
+      "height": 163,
+      "weight": 100,
+      "sportsType": "Спортивное скалолазание"
+    },
+    {
+      "fullName": "Доронина Зоя Арсеньевна",
+      "age": 30,
+      "height": 175,
+      "weight": 76,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Александрова Раиса Ярославовна",
+      "age": 31,
+      "height": 204,
+      "weight": 66,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Осипов Денис Игнатьевич",
+      "age": 25,
+      "height": 173,
+      "weight": 75,
+      "sportsType": "Футбол"
+    },
+    {
+      "fullName": "Устинова Наталья Данииловна",
+      "age": 19,
+      "height": 160,
+      "weight": 74,
+      "sportsType": "Футбол"
+    },
+    {
+      "fullName": "Николаев Егор Викторович",
+      "age": 24,
+      "height": 150,
+      "weight": 97,
+      "sportsType": "Легкая атлетика"
+    },
+    {
+      "fullName": "Емельянов Степан Константинович",
+      "age": 22,
+      "height": 163,
+      "weight": 44,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Доронин Анатолий Лукич",
+      "age": 40,
+      "height": 188,
+      "weight": 49,
+      "sportsType": "Водное поло"
+    },
+    {
+      "fullName": "Мартынова Зинаида Олеговна",
+      "age": 41,
+      "height": 168,
+      "weight": 64,
+      "sportsType": "Теннис"
+    },
+    {
+      "fullName": "Меркушева Лариса Данииловна",
+      "age": 15,
+      "height": 150,
+      "weight": 51,
+      "sportsType": "Гребной слалом"
+    },
+    {
+      "fullName": "Романов Матвей Игоревич",
+      "age": 27,
+      "height": 181,
+      "weight": 88,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Калашников Виктор Олегович",
+      "age": 17,
+      "height": 207,
+      "weight": 68,
+      "sportsType": "Гребля"
+    },
+    {
+      "fullName": "Ковалев Альберт Вадимович",
+      "age": 39,
+      "height": 198,
+      "weight": 52,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Савельев Никита Даниилович",
+      "age": 39,
+      "height": 167,
+      "weight": 80,
+      "sportsType": "Парусный спорт"
+    },
+    {
+      "fullName": "Крылова Оксана Арсеньевна",
+      "age": 42,
+      "height": 183,
+      "weight": 68,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Зайцев Григорий Лукич",
+      "age": 23,
+      "height": 150,
+      "weight": 70,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Мухина Виктория Макаровна",
+      "age": 39,
+      "height": 203,
+      "weight": 42,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Русакова Антонина Викторовна",
+      "age": 33,
+      "height": 191,
+      "weight": 60,
+      "sportsType": "Гандбол"
+    },
+    {
+      "fullName": "Веселов Владислав Владимирович",
+      "age": 24,
+      "height": 192,
+      "weight": 89,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Королев Виталий Лаврентьевич",
+      "age": 30,
+      "height": 197,
+      "weight": 60,
+      "sportsType": "Прыжки на батуте"
+    },
+    {
+      "fullName": "Фадеев Сергей Станиславович",
+      "age": 30,
+      "height": 161,
+      "weight": 80,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Жуков Сергей Витальевич",
+      "age": 23,
+      "height": 184,
+      "weight": 85,
+      "sportsType": "Плавание"
+    },
+    {
+      "fullName": "Пахомов Матвей Владиславович",
+      "age": 38,
+      "height": 200,
+      "weight": 60,
+      "sportsType": "Прыжки на батуте"
+    },
+    {
+      "fullName": "Сафонов Игорь Сергеевич",
+      "age": 39,
+      "height": 207,
+      "weight": 98,
+      "sportsType": "Борьба"
+    },
+    {
+      "fullName": "Афанасьев Александр Дмитриевич",
+      "age": 38,
+      "height": 180,
+      "weight": 80,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Фомин Виктор Геннадьевич",
+      "age": 17,
+      "height": 172,
+      "weight": 96,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Мухин Егор Ярославович",
+      "age": 36,
+      "height": 208,
+      "weight": 75,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Давыдов Вячеслав Ярославович",
+      "age": 21,
+      "height": 165,
+      "weight": 52,
+      "sportsType": "Хоккей"
+    },
+    {
+      "fullName": "Архипова Римма Николаевна",
+      "age": 49,
+      "height": 194,
+      "weight": 72,
+      "sportsType": "Бокс"
+    },
+    {
+      "fullName": "Лапин Никита Степанович",
+      "age": 34,
+      "height": 195,
+      "weight": 62,
+      "sportsType": "Настольный теннис"
+    },
+    {
+      "fullName": "Большаков Александр Евгеньевич",
+      "age": 47,
+      "height": 157,
+      "weight": 63,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Кошелев Альберт Викторович",
+      "age": 37,
+      "height": 156,
+      "weight": 45,
+      "sportsType": "Гребной слалом"
+    },
+    {
+      "fullName": "Денисов Константин Вадимович",
+      "age": 26,
+      "height": 158,
+      "weight": 93,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Некрасов Валентин Артёмович",
+      "age": 25,
+      "height": 183,
+      "weight": 47,
+      "sportsType": "Плавание"
+    },
+    {
+      "fullName": "Игнатов Аркадий Алексеевич",
+      "age": 26,
+      "height": 197,
+      "weight": 54,
+      "sportsType": "Водное поло"
+    },
+    {
+      "fullName": "Молчанов Фёдор Николаевич",
+      "age": 43,
+      "height": 173,
+      "weight": 63,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Фомичев Евгений Даниилович",
+      "age": 38,
+      "height": 168,
+      "weight": 52,
+      "sportsType": "Гребной слалом"
+    },
+    {
+      "fullName": "Исаев Валерий Алексеевич",
+      "age": 33,
+      "height": 157,
+      "weight": 51,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Горшкова Василиса Арсеньевна",
+      "age": 41,
+      "height": 178,
+      "weight": 77,
+      "sportsType": "Теннис"
+    },
+    {
+      "fullName": "Крылов Фёдор Никитич",
+      "age": 29,
+      "height": 159,
+      "weight": 74,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Котова Антонина Николаевна",
+      "age": 47,
+      "height": 178,
+      "weight": 56,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Муравьев Георгий Валерьевич",
+      "age": 15,
+      "height": 153,
+      "weight": 73,
+      "sportsType": "Маунтинбайк"
+    },
+    {
+      "fullName": "Васильева Мария Артёмовна",
+      "age": 15,
+      "height": 201,
+      "weight": 62,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Герасимов Константин Лаврентьевич",
+      "age": 50,
+      "height": 161,
+      "weight": 99,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Павлов Эдуард Фёдорович",
+      "age": 44,
+      "height": 203,
+      "weight": 52,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Гришин Валентин Арсеньевич",
+      "age": 31,
+      "height": 164,
+      "weight": 79,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Смирнова Варвара Андреевна",
+      "age": 43,
+      "height": 193,
+      "weight": 80,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Гусева Регина Ильинична",
+      "age": 25,
+      "height": 157,
+      "weight": 91,
+      "sportsType": "Легкая атлетика"
+    },
+    {
+      "fullName": "Капустин Семён Артёмович",
+      "age": 36,
+      "height": 154,
+      "weight": 94,
+      "sportsType": "Гребля"
+    },
+    {
+      "fullName": "Фокин Герман Денисович",
+      "age": 18,
+      "height": 195,
+      "weight": 91,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Кузьмина Александра Максимовна",
+      "age": 31,
+      "height": 164,
+      "weight": 78,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Рогов Вадим Андреевич",
+      "age": 24,
+      "height": 196,
+      "weight": 52,
+      "sportsType": "Гребля на байдарках и каноэ"
+    },
+    {
+      "fullName": "Кудряшова Марина Алексеевна",
+      "age": 48,
+      "height": 163,
+      "weight": 69,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Кондратьева Оксана Юрьевна",
+      "age": 18,
+      "height": 168,
+      "weight": 68,
+      "sportsType": "BMX"
+    },
+    {
+      "fullName": "Гуляев Сергей Леонидович",
+      "age": 34,
+      "height": 184,
+      "weight": 76,
+      "sportsType": "Парусный спорт"
+    },
+    {
+      "fullName": "Зимина Василиса Романовна",
+      "age": 48,
+      "height": 162,
+      "weight": 74,
+      "sportsType": "Настольный теннис"
+    },
+    {
+      "fullName": "Артемьев Фёдор Никитич",
+      "age": 39,
+      "height": 201,
+      "weight": 92,
+      "sportsType": "Триатлон"
+    },
+    {
+      "fullName": "Ефимова Ульяна Артёмовна",
+      "age": 50,
+      "height": 177,
+      "weight": 55,
+      "sportsType": "Бокс"
+    },
+    {
+      "fullName": "Владимиров Игорь Иванович",
+      "age": 16,
+      "height": 154,
+      "weight": 94,
+      "sportsType": "Настольный теннис"
+    },
+    {
+      "fullName": "Лобанова Зоя Витальевна",
+      "age": 28,
+      "height": 174,
+      "weight": 55,
+      "sportsType": "Бокс"
+    },
+    {
+      "fullName": "Кудрявцева Людмила Дмитриевна",
+      "age": 24,
+      "height": 195,
+      "weight": 49,
+      "sportsType": "Плавание"
+    },
+    {
+      "fullName": "Фролов Эдуард Михайлович",
+      "age": 15,
+      "height": 204,
+      "weight": 79,
+      "sportsType": "Скейтбоардинг"
+    },
+    {
+      "fullName": "Белякова Зинаида Степановна",
+      "age": 29,
+      "height": 194,
+      "weight": 83,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Воробьев Степан Аркадьевич",
+      "age": 23,
+      "height": 181,
+      "weight": 95,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Родионов Дмитрий Сергеевич",
+      "age": 26,
+      "height": 168,
+      "weight": 94,
+      "sportsType": "Футбол"
+    },
+    {
+      "fullName": "Михеева Римма Альбертовна",
+      "age": 37,
+      "height": 202,
+      "weight": 64,
+      "sportsType": "Плавание"
+    },
+    {
+      "fullName": "Рыбакова Тамара Георгиевна",
+      "age": 32,
+      "height": 186,
+      "weight": 58,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Рогова Маргарита Артёмовна",
+      "age": 23,
+      "height": 166,
+      "weight": 79,
+      "sportsType": "Водное поло"
+    },
+    {
+      "fullName": "Доронина Тамара Максимовна",
+      "age": 30,
+      "height": 190,
+      "weight": 57,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Голубев Степан Егорович",
+      "age": 21,
+      "height": 193,
+      "weight": 63,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Гуляева Антонина Фёдоровна",
+      "age": 25,
+      "height": 195,
+      "weight": 92,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Комиссарова Кира Сергеевна",
+      "age": 23,
+      "height": 185,
+      "weight": 43,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Коновалова Лидия Георгиевна",
+      "age": 36,
+      "height": 150,
+      "weight": 49,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Зыкова Арина Арсеньевна",
+      "age": 49,
+      "height": 184,
+      "weight": 41,
+      "sportsType": "Гребля на байдарках и каноэ"
+    },
+    {
+      "fullName": "Фомичева Ксения Григорьевна",
+      "age": 42,
+      "height": 210,
+      "weight": 78,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Овчинников Андрей Никитич",
+      "age": 22,
+      "height": 203,
+      "weight": 40,
+      "sportsType": "Маунтинбайк"
+    },
+    {
+      "fullName": "Дорофеева Анна Аркадьевна",
+      "age": 42,
+      "height": 210,
+      "weight": 54,
+      "sportsType": "BMX"
+    },
+    {
+      "fullName": "Панфилова Алла Геннадьевна",
+      "age": 22,
+      "height": 206,
+      "weight": 93,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Фомичева Валерия Лаврентьевна",
+      "age": 49,
+      "height": 186,
+      "weight": 41,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Смирнова Алевтина Станиславовна",
+      "age": 20,
+      "height": 209,
+      "weight": 50,
+      "sportsType": "3x3 баскетбол"
+    },
+    {
+      "fullName": "Зыков Артём Игнатьевич",
+      "age": 28,
+      "height": 152,
+      "weight": 55,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Владимирова Алевтина Ярославовна",
+      "age": 27,
+      "height": 166,
+      "weight": 62,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Зуев Вячеслав Арсеньевич",
+      "age": 46,
+      "height": 169,
+      "weight": 81,
+      "sportsType": "Прыжки на батуте"
+    },
+    {
+      "fullName": "Рябов Даниил Лукич",
+      "age": 47,
+      "height": 181,
+      "weight": 67,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Лыткин Григорий Борисович",
+      "age": 40,
+      "height": 152,
+      "weight": 43,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Виноградов Антон Владиславович",
+      "age": 46,
+      "height": 192,
+      "weight": 50,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Рогов Максим Альбертович",
+      "age": 26,
+      "height": 153,
+      "weight": 73,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Белоусов Степан Семёнович",
+      "age": 29,
+      "height": 171,
+      "weight": 51,
+      "sportsType": "Гольф"
+    },
+    {
+      "fullName": "Белякова Арина Максимовна",
+      "age": 35,
+      "height": 187,
+      "weight": 93,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Орехов Даниил Андреевич",
+      "age": 50,
+      "height": 204,
+      "weight": 42,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Елисеева Варвара Альбертовна",
+      "age": 22,
+      "height": 178,
+      "weight": 100,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Самойлова Жанна Михайловна",
+      "age": 26,
+      "height": 173,
+      "weight": 63,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Федосеев Степан Николаевич",
+      "age": 46,
+      "height": 183,
+      "weight": 85,
+      "sportsType": "Плавание"
+    },
+    {
+      "fullName": "Романов Александр Эдуардович",
+      "age": 45,
+      "height": 178,
+      "weight": 41,
+      "sportsType": "Скейтбоардинг"
+    },
+    {
+      "fullName": "Кулагин Владимир Максимович",
+      "age": 23,
+      "height": 173,
+      "weight": 78,
+      "sportsType": "Бейзбол"
+    },
+    {
+      "fullName": "Лукина Раиса Аркадьевна",
+      "age": 47,
+      "height": 166,
+      "weight": 85,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Журавлева Анжела Антоновна",
+      "age": 19,
+      "height": 188,
+      "weight": 66,
+      "sportsType": "Синхронное плавание"
+    },
+    {
+      "fullName": "Ершова Анжела Анатольевна",
+      "age": 24,
+      "height": 173,
+      "weight": 66,
+      "sportsType": "BMX фристайл"
+    },
+    {
+      "fullName": "Лихачева Виктория Владимировна",
+      "age": 21,
+      "height": 179,
+      "weight": 43,
+      "sportsType": "Современный пентатлон"
+    },
+    {
+      "fullName": "Авдеев Михаил Дмитриевич",
+      "age": 29,
+      "height": 171,
+      "weight": 50,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Князев Эдуард Олегович",
+      "age": 16,
+      "height": 170,
+      "weight": 41,
+      "sportsType": "Регби"
+    },
+    {
+      "fullName": "Князева Надежда Вадимовна",
+      "age": 20,
+      "height": 153,
+      "weight": 78,
+      "sportsType": "Маунтинбайк"
+    },
+    {
+      "fullName": "Князева Антонина Романовна",
+      "age": 46,
+      "height": 157,
+      "weight": 64,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Носков Григорий Семёнович",
+      "age": 16,
+      "height": 163,
+      "weight": 67,
+      "sportsType": "Стрельба из лука"
+    },
+    {
+      "fullName": "Сорокина Лидия Константиновна",
+      "age": 25,
+      "height": 183,
+      "weight": 91,
+      "sportsType": "Настольный теннис"
+    },
+    {
+      "fullName": "Ефимова Жанна Данииловна",
+      "age": 43,
+      "height": 189,
+      "weight": 91,
+      "sportsType": "Прыжки на батуте"
+    },
+    {
+      "fullName": "Селиверстов Евгений Григорьевич",
+      "age": 36,
+      "height": 158,
+      "weight": 40,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Кошелева Елизавета Владимировна",
+      "age": 27,
+      "height": 155,
+      "weight": 79,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Беляев Анатолий Вячеславович",
+      "age": 39,
+      "height": 193,
+      "weight": 48,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Ситников Алексей Валентинович",
+      "age": 32,
+      "height": 184,
+      "weight": 96,
+      "sportsType": "Маунтинбайк"
+    },
+    {
+      "fullName": "Зыков Ярослав Ильич",
+      "age": 25,
+      "height": 157,
+      "weight": 99,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Попова Дарья Вячеславовна",
+      "age": 39,
+      "height": 184,
+      "weight": 100,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Афанасьева Римма Анатольевна",
+      "age": 45,
+      "height": 180,
+      "weight": 93,
+      "sportsType": "Легкая атлетика"
+    },
+    {
+      "fullName": "Сафонов Алексей Эдуардович",
+      "age": 23,
+      "height": 150,
+      "weight": 42,
+      "sportsType": "Настольный теннис"
+    },
+    {
+      "fullName": "Орехов Валерий Васильевич",
+      "age": 40,
+      "height": 177,
+      "weight": 71,
+      "sportsType": "Шоссейный велоспорт"
+    },
+    {
+      "fullName": "Маслова Антонида Ивановна",
+      "age": 21,
+      "height": 168,
+      "weight": 64,
+      "sportsType": "Теннис"
+    },
+    {
+      "fullName": "Самсонова Алина Анатольевна",
+      "age": 43,
+      "height": 155,
+      "weight": 83,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Калинин Герман Игоревич",
+      "age": 49,
+      "height": 196,
+      "weight": 75,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Самойлов Константин Вячеславович",
+      "age": 23,
+      "height": 162,
+      "weight": 43,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Данилов Владимир Владиславович",
+      "age": 38,
+      "height": 209,
+      "weight": 72,
+      "sportsType": "Стрельба из лука"
+    },
+    {
+      "fullName": "Горшков Фёдор Макарович",
+      "age": 41,
+      "height": 184,
+      "weight": 72,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Федорова Лариса Арсеньевна",
+      "age": 21,
+      "height": 206,
+      "weight": 76,
+      "sportsType": "Хоккей"
+    },
+    {
+      "fullName": "Шестакова Анна Артёмовна",
+      "age": 42,
+      "height": 165,
+      "weight": 89,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Савельева Галина Владимировна",
+      "age": 38,
+      "height": 201,
+      "weight": 40,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Никифоров Георгий Арсеньевич",
+      "age": 17,
+      "height": 193,
+      "weight": 74,
+      "sportsType": "Гольф"
+    },
+    {
+      "fullName": "Шубина Ольга Макаровна",
+      "age": 29,
+      "height": 150,
+      "weight": 63,
+      "sportsType": "Бейзбол"
+    },
+    {
+      "fullName": "Цветкова Наталья Сергеевна",
+      "age": 29,
+      "height": 196,
+      "weight": 63,
+      "sportsType": "Гребля"
+    },
+    {
+      "fullName": "Матвеева Ангелина Ильинична",
+      "age": 35,
+      "height": 161,
+      "weight": 44,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Наумов Владислав Игнатьевич",
+      "age": 50,
+      "height": 150,
+      "weight": 40,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Доронин Валерий Лаврентьевич",
+      "age": 50,
+      "height": 150,
+      "weight": 85,
+      "sportsType": "Гребля на байдарках и каноэ"
+    },
+    {
+      "fullName": "Данилова София Арсеньевна",
+      "age": 28,
+      "height": 183,
+      "weight": 40,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Морозова Маргарита Игнатьевна",
+      "age": 19,
+      "height": 163,
+      "weight": 74,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Лапина Виктория Семёновна",
+      "age": 46,
+      "height": 193,
+      "weight": 42,
+      "sportsType": "Спортивное скалолазание"
+    },
+    {
+      "fullName": "Агафонов Константин Евгеньевич",
+      "age": 27,
+      "height": 199,
+      "weight": 90,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Ермакова Елизавета Владимировна",
+      "age": 45,
+      "height": 180,
+      "weight": 85,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Сазонов Василий Юрьевич",
+      "age": 35,
+      "height": 163,
+      "weight": 71,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Кудряшова Жанна Вячеславовна",
+      "age": 34,
+      "height": 193,
+      "weight": 68,
+      "sportsType": "Воллейбол"
+    },
+    {
+      "fullName": "Петухова Анфиса Ильинична",
+      "age": 35,
+      "height": 162,
+      "weight": 100,
+      "sportsType": "Хоккей"
+    },
+    {
+      "fullName": "Молчанов Олег Альбертович",
+      "age": 45,
+      "height": 192,
+      "weight": 48,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Титова Кира Степановна",
+      "age": 16,
+      "height": 186,
+      "weight": 47,
+      "sportsType": "Бокс"
+    },
+    {
+      "fullName": "Евдокимов Лука Романович",
+      "age": 28,
+      "height": 174,
+      "weight": 66,
+      "sportsType": "Регби"
+    },
+    {
+      "fullName": "Кулагин Илья Григорьевич",
+      "age": 15,
+      "height": 190,
+      "weight": 67,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Ефимов Альберт Романович",
+      "age": 43,
+      "height": 156,
+      "weight": 40,
+      "sportsType": "Карате"
+    },
+    {
+      "fullName": "Бобров Ярослав Валентинович",
+      "age": 37,
+      "height": 193,
+      "weight": 92,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Комиссарова Ульяна Семёновна",
+      "age": 42,
+      "height": 170,
+      "weight": 94,
+      "sportsType": "Гребля"
+    },
+    {
+      "fullName": "Ширяева Регина Сергеевна",
+      "age": 48,
+      "height": 203,
+      "weight": 47,
+      "sportsType": "Серфинг"
+    },
+    {
+      "fullName": "Суханова Вера Валентиновна",
+      "age": 44,
+      "height": 193,
+      "weight": 76,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Зайцева Анастасия Геннадьевна",
+      "age": 47,
+      "height": 194,
+      "weight": 71,
+      "sportsType": "Конкур"
+    },
+    {
+      "fullName": "Исаев Вячеслав Владиславович",
+      "age": 24,
+      "height": 153,
+      "weight": 41,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Чернова Зинаида Данииловна",
+      "age": 28,
+      "height": 195,
+      "weight": 99,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Евдокимова Мария Владимировна",
+      "age": 25,
+      "height": 207,
+      "weight": 94,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Федотов Геннадий Дмитриевич",
+      "age": 49,
+      "height": 157,
+      "weight": 73,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Сидоров Фёдор Ильич",
+      "age": 24,
+      "height": 164,
+      "weight": 41,
+      "sportsType": "Баскетбол"
+    },
+    {
+      "fullName": "Соловьев Герман Семёнович",
+      "age": 20,
+      "height": 188,
+      "weight": 66,
+      "sportsType": "Гребля"
+    },
+    {
+      "fullName": "Никитин Николай Иванович",
+      "age": 33,
+      "height": 169,
+      "weight": 65,
+      "sportsType": "Прыжки на батуте"
+    },
+    {
+      "fullName": "Евдокимов Василий Матвеевич",
+      "age": 40,
+      "height": 179,
+      "weight": 57,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Чернова Василиса Романовна",
+      "age": 42,
+      "height": 177,
+      "weight": 100,
+      "sportsType": "Прыжки в воду"
+    },
+    {
+      "fullName": "Маслова Кира Никитична",
+      "age": 42,
+      "height": 158,
+      "weight": 90,
+      "sportsType": "Спортивная гимнастика"
+    },
+    {
+      "fullName": "Маркова Юлия Матвеевна",
+      "age": 21,
+      "height": 153,
+      "weight": 90,
+      "sportsType": "Гольф"
+    },
+    {
+      "fullName": "Сорокина Анжела Максимовна",
+      "age": 23,
+      "height": 164,
+      "weight": 75,
+      "sportsType": "Тяжелая атлетика"
+    },
+    {
+      "fullName": "Буров Лаврентий Григорьевич",
+      "age": 16,
+      "height": 174,
+      "weight": 97,
+      "sportsType": "Водное поло"
+    },
+    {
+      "fullName": "Родионов Геннадий Михайлович",
+      "age": 34,
+      "height": 207,
+      "weight": 89,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Бобылева Ангелина Антоновна",
+      "age": 28,
+      "height": 180,
+      "weight": 77,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Князева Екатерина Вадимовна",
+      "age": 44,
+      "height": 187,
+      "weight": 75,
+      "sportsType": "Софтбол"
+    },
+    {
+      "fullName": "Макарова Дарья Игнатьевна",
+      "age": 27,
+      "height": 160,
+      "weight": 49,
+      "sportsType": "Тхэквондо"
+    },
+    {
+      "fullName": "Александров Валерий Сергеевич",
+      "age": 37,
+      "height": 195,
+      "weight": 71,
+      "sportsType": "Трековый велоспорт"
+    },
+    {
+      "fullName": "Жуков Никита Арсеньевич",
+      "age": 46,
+      "height": 170,
+      "weight": 44,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Филиппов Олег Егорович",
+      "age": 28,
+      "height": 181,
+      "weight": 55,
+      "sportsType": "Выездка"
+    },
+    {
+      "fullName": "Юдин Семён Эдуардович",
+      "age": 37,
+      "height": 206,
+      "weight": 69,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Ситников Лаврентий Константинович",
+      "age": 34,
+      "height": 161,
+      "weight": 58,
+      "sportsType": "Стрельба"
+    },
+    {
+      "fullName": "Уваров Егор Евгеньевич",
+      "age": 26,
+      "height": 167,
+      "weight": 64,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Рыбакова Валерия Ярославовна",
+      "age": 48,
+      "height": 185,
+      "weight": 88,
+      "sportsType": "Стрельба из лука"
+    },
+    {
+      "fullName": "Сафонова Вера Германовна",
+      "age": 39,
+      "height": 170,
+      "weight": 97,
+      "sportsType": "Парусный спорт"
+    },
+    {
+      "fullName": "Ефремова Евгения Андреевна",
+      "age": 33,
+      "height": 181,
+      "weight": 83,
+      "sportsType": "Бокс"
+    },
+    {
+      "fullName": "Громов Степан Евгеньевич",
+      "age": 15,
+      "height": 176,
+      "weight": 79,
+      "sportsType": "Плавание на открытой воде"
+    },
+    {
+      "fullName": "Моисеев Виктор Леонидович",
+      "age": 16,
+      "height": 197,
+      "weight": 79,
+      "sportsType": "Дзюдо"
+    },
+    {
+      "fullName": "Козлов Анатолий Ярославович",
+      "age": 25,
+      "height": 157,
+      "weight": 73,
+      "sportsType": "Бадминтон"
+    },
+    {
+      "fullName": "Савельев Антон Романович",
+      "age": 22,
+      "height": 193,
+      "weight": 61,
+      "sportsType": "Художественная гимнастика"
+    },
+    {
+      "fullName": "Сысоева Виктория Сергеевна",
+      "age": 42,
+      "height": 150,
+      "weight": 65,
+      "sportsType": "Парусный спорт"
+    }
+  ]
+}
