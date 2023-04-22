@@ -1,0 +1,38 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/-linear-and-binary-search-lab/[root]/index.html
+$dokka.location://main/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/main.html
+$dokka.location://measureTimeMicros/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/-linear-and-binary-search-lab/[root]/measure-time-micros.html
+$dokka.location://sizes/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/sizes.html
+$dokka.location:/OlympicTeam///PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/index.html
+$dokka.location:/OlympicTeam/OlympicTeam/#kotlin.collections.List[Sportsman]/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/-olympic-team.html
+$dokka.location:/OlympicTeam/binarySearch/#kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/binary-search.html
+$dokka.location:/OlympicTeam/equals/#kotlin.Any?/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/equals.html
+$dokka.location:/OlympicTeam/get/#kotlin.Int/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/get.html
+$dokka.location:/OlympicTeam/hashCode/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/hash-code.html
+$dokka.location:/OlympicTeam/linearSearch/#kotlin.String/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/linear-search.html
+$dokka.location:/OlympicTeam/plus/#OlympicTeam/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/plus.html
+$dokka.location:/OlympicTeam/plus/#Sportsman/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/plus.html
+$dokka.location:/OlympicTeam/plusAssign/#Sportsman/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/plus-assign.html
+$dokka.location:/OlympicTeam/random/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/random.html
+$dokka.location:/OlympicTeam/sort/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/sort.html
+$dokka.location:/OlympicTeam/sortPyramid/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/sort-pyramid.html
+$dokka.location:/OlympicTeam/sortQuick/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/sort-quick.html
+$dokka.location:/OlympicTeam/sortSimpleInserts/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/sort-simple-inserts.html
+$dokka.location:/OlympicTeam/team/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/team.html
+$dokka.location:/OlympicTeam/writeTeamToJSON/#kotlin.String/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team/write-team-to-j-s-o-n.html
+$dokka.location:/OlympicTeamReader///PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team-reader/index.html
+$dokka.location:/OlympicTeamReader/OlympicTeamReader/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team-reader/-olympic-team-reader.html
+$dokka.location:/OlympicTeamReader/readTeamFromJSON/#kotlin.String/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-olympic-team-reader/read-team-from-j-s-o-n.html
+$dokka.location:/Sportsman///PointingToDeclaration/-linear-and-binary-search-lab/[root]/-sportsman/index.html
+$dokka.location:/Sportsman/Sportsman/#kotlin.String#kotlin.UInt#kotlin.UInt#kotlin.UInt#kotlin.String/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-sportsman/-sportsman.html
+$dokka.location:/Sportsman/age/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-sportsman/age.html
+$dokka.location:/Sportsman/compareTo/#Sportsman/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-sportsman/compare-to.html
+$dokka.location:/Sportsman/equals/#kotlin.Any?/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-sportsman/equals.html
+$dokka.location:/Sportsman/fullName/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-sportsman/full-name.html
+$dokka.location:/Sportsman/hashCode/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-sportsman/hash-code.html
+$dokka.location:/Sportsman/height/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-sportsman/height.html
+$dokka.location:/Sportsman/sportsType/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-sportsman/sports-type.html
+$dokka.location:/Sportsman/weight/#/PointingToDeclaration/-linear-and-binary-search-lab/[root]/-sportsman/weight.html
+
+
